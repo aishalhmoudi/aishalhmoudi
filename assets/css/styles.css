@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
 
 /*======= BASE =======*/
 html, body {
@@ -94,14 +95,14 @@ body {
   color: #2e2e2e;
   font-size: clamp(1.2rem, 4vw, 2rem);
   margin-top: 20px;
-  font-family: 'Qahiri', sans-serif;
+  font-family: 'Playfair Display', serif;
   text-align: center;
 }
 
 .author {
   color: #2d2d2d;
   font-size: 1rem;
-  font-family: 'Qahiri', sans-serif;
+  font-family: 'Playfair Display', serif;
   margin-top: 0.5px;
   text-align: center; 
   display: block; 
